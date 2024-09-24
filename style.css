@@ -1,8 +1,4 @@
-.news > h2{
-    font-size: 40px;
-    color : aqua ;
-}
-.news > h3 {
-    font-size: 40px;
-    color: gold ;
+P{
+    color: fuchsia;
+    font-size: 60px;
 }
